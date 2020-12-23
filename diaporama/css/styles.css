@@ -1,0 +1,25 @@
+section{
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+
+
+section img {
+    width: 100%
+}
+
+span{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 3em;
+    color: white;
+}
+#flecheG{
+    left:10px;
+}
+
+#flecheD{
+    right: 10px;
+}
