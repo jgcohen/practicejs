@@ -1,2 +1,2 @@
 # practicejs
-Des exercices javascript
+training on javascript
